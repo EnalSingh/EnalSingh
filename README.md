@@ -1,3 +1,4 @@
+![logo](https://github.com/EnalSingh/EnalSingh/blob/main/THANK%20YOU%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Enal Singh</h1>
 <h3 align="center">Pursuing ECE and a passionate coder.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
